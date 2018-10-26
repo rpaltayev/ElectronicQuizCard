@@ -7,3 +7,4 @@ Simple Quiz Card app to save Quiz questions with answers. App also allows to sav
 ## Window to load and open quiz cards saved by Card Builder
 ![Card Player Screenshot](https://github.com/rpaltayev/ElectronicQuizCard/blob/master/imgs/CardPlayer.JPG)
       
+![Card Player Answer Screen Shot](https://github.com/rpaltayev/ElectronicQuizCard/blob/master/imgs/CardPlayer2.JPG)
